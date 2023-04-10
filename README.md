@@ -1,16 +1,23 @@
+## To the Github Community <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![](https://visitor-badge.laobi.icu/badge?page_id=ABDELLAH-Hallou)
+
+<br>
+
+
+
+<p>
+  <a href="https://www.linkedin.com/in/abdellah-hallou/" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ### Hi there 👋
 
-<!--
-**Hallou-Abdellah/Hallou-Abdellah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **HALLOU Abdellah**, I'm an **Artificial Intelligence and Computer Engineering student** 💻. I am passionate about digital and new technologies, Currently, I'm a **Data and Machine Learning Engineer**.
 
-Here are some ideas to get you started:
+AI & CS student, enthusiastic about Data Science, AI, Machine Learning, NLP, problem-solving skills, and leadership.
+I am passionate about digital and new technologies, Currently, I'm a **Data and Machine Learning Engineer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools 
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
+![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
