@@ -11,8 +11,6 @@
 
 ### Hi there 👋
 
-I'm **HALLOU Abdellah**, I'm an **Artificial Intelligence and Computer Engineering student** 💻. I am passionate about digital and new technologies, Currently, I'm a **Data and Machine Learning Engineer**.
-
 AI & CS student, enthusiastic about Data Science, AI, Machine Learning, NLP, problem-solving skills, and leadership.
 I am passionate about digital and new technologies, Currently, I'm a **Data and Machine Learning Engineer**.
 
